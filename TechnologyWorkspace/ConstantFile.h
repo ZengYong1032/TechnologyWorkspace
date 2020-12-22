@@ -11,5 +11,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 extern NSString *const  oneStr;
 extern NSString *const  twoStr;
+extern NSString *const  thirdStr;
+extern NSString *const  fourStr;
 
 NS_ASSUME_NONNULL_END

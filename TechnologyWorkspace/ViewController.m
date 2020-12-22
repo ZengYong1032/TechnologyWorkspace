@@ -20,7 +20,7 @@
     
     NSLog(@"OneString = %@",oneStr);
     CGRect frame = self.view.frame;
-    NSLog(@"\nFrame.x = %.2f\nFrame.y = %.2f\nFrame.width = %.2f\nFrame.height = %.2f",CGRectGetMinX(frame),CGRectGetMinY(frame),CGRectGetWidth(frame),CGRectGetHeight(frame));
+    NSLog(@"\nFrame.x = %.2f\nFrame.y = %.2f\nFrame.width = %.2f\nFrame.height = %.2f",CGRectGetMaxX(frame),CGRectGetMaxY(frame),CGRectGetWidth(frame),CGRectGetHeight(frame));
 }
 
 
