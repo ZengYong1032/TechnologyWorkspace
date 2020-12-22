@@ -13,5 +13,6 @@ extern NSString *const  oneStr;
 extern NSString *const  twoStr;
 extern NSString *const  thirdStr;
 extern NSString *const  fourStr;
+extern NSString *const  fourStr1;
 
 NS_ASSUME_NONNULL_END
